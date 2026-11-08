@@ -1,14 +1,12 @@
 # Randstad Operational: Strategic HR Analysis and Computerized Dashboard System
 
-**[Interactive dashboard on Tableau Public](https://public.tableau.com/views/ComputarizedDashboardSystemforStrategicDecissionMaking-RandstadOperational-IndividualAssesment/Home)** · **[User guide](https://canva.link/7ymkhsrfd6og0e0)** · **[One-pager (PDF)](docs/one_pager.pdf)**
-
-![Dashboard screenshot](images/dashboard_screenshot.png)
+**[Interactive dashboard on Tableau Public](https://public.tableau.com/views/ComputarizedDashboardSystemforStrategicDecissionMaking-RandstadOperational-IndividualAssesment/Home)** · **[User guide](https://canva.link/8faiaofgrhud6ta)** · **[One-pager (PDF)](docs/one_pager.pdf)**
 
 ## Overview
 
 The staffing industry is operating in a volatile, highly competitive landscape shaped by technological disruption, demographic shifts and changing client and talent expectations. This project assesses Randstad Operational's competitive position, diagnoses its key HR areas and proposes two strategic recommendations. The final deliverable is a computerized dashboard system in Tableau, with a user guide, to support managers' day-to-day strategic decisions.
 
-MSc Business Analytics individual assessment (University of Exeter), based on a Randstad Operational case.
+MSc assessment case study based on Randstad Operational Business Unit. 
 
 ## Approach
 
@@ -35,7 +33,7 @@ MSc Business Analytics individual assessment (University of Exeter), based on a 
 
 ## The dashboard system
 
-Built in Tableau, the system includes four dashboards covering the strategic analysis of key HR areas in line with staffing industry demands. It combines benchmarking metrics, Tableau's forecasting tool and "what-if" parameters so managers can explore scenarios. The [user guide](https://canva.link/7ymkhsrfd6og0e0) explains how to navigate each dashboard and documents the data sources.
+Built in Tableau, the system includes four dashboards covering the strategic analysis of key HR areas in line with staffing industry demands. It combines benchmarking metrics, Tableau's forecasting tool and "what-if" parameters so managers can explore scenarios. The [user guide](https://canva.link/8faiaofgrhud6ta) explains how to navigate each dashboard and documents the data sources.
 
 ## Data note
 
@@ -45,7 +43,6 @@ Where possible, the data reflects Randstad's public information. Data points tha
 
 ```
 ├── README.md
-├── images/       Dashboard screenshots
 └── docs/
     ├── user_guide.pdf    Exported user guide
     └── one_pager.pdf     Project summary
@@ -53,4 +50,4 @@ Where possible, the data reflects Randstad's public information. Data points tha
 
 ## Author
 
-Joaquin Nicolas · [LinkedIn](LINK_TO_LINKEDIN)
+Joaquin Nicolas Verdeja M. · [LinkedIn](www.linkedin.com/in/joaquin-nicolas-verdeja-martinez-1a9000166)
